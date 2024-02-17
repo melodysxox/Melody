@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melody's Pencil Shop</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff; /* Light Mint Green */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ffffe0; /* Very Light Yellow */
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff; /* White */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #ffffe0; /* Very Light Yellow */
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Melody's Pencil Shop</h1>
+        <p>Your go-to place for quality pencils!</p>
+    </header>
+
+    <section>
+        <h2>Welcome to Melody's Pencil Shop!</h2>
+        <p>Hello, I'm Melody, and I'm passionate about providing you with the best pencils. Whether you're an artist, student, or just love the feel of a good pencil, you're in the right place!</p>
+
+        <p>Explore our selection and find the perfect pencils for your needs. Quality and satisfaction guaranteed.</p>
+
+        <h3>Featured Products</h3>
+        <ul>
+            <li>Classic Wooden Pencils</li>
+            <li>Mechanical Pencils</li>
+            <li>Colored Pencil Sets</li>
+        </ul>
+
+        <p>Place your order now and add a touch of creativity to your life with our exceptional pencils!</p>
+    </section>
+
+    <footer>
+        <p>Contact me at melody@example.com</p>
+    </footer>
+
+</body>
+
+</html>
